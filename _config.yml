@@ -1,7 +1,7 @@
 name: Kip Russel
 favicon: null
-layout_spectrum: 0.06926301028579473
-typography_spectrum: 0.018635733984410763
+layout_spectrum: 0.97168
+typography_spectrum: 0.50293
 title: "Denver's most versatile, tech-savvy and personable male escort"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9356625063810498
-  lightness: 0.8410939041059464
-  saturation: 0.9246089782100171
-  rhythmicContrast: 0.8834073143079877
+    - '#454545'
+    - '#1b1b1b'
+    - '#9f9f9f'
+    - '#5ceaee'
+    - '#f0e7ba'
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
